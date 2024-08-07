@@ -6,19 +6,17 @@
 ## 💼 Work
 
 ### ReactJS Projects
-- **[Project1](#)**: Description and link
-- **[Project4](#)**: Description and link
+- **[Project1](#)**: ![Project1](path/to/image1.jpg) Description and link
+- **[Project4](#)**: ![Project4](path/to/image4.jpg) Description and link
 
 ### JavaScript Projects
-- **[Project2](#)**: Description and link
-- **[Project5](#)**: Description and link
+- **[Project2](#)**: ![Project2](path/to/image2.jpg) Description and link
+- **[Project5](#)**: ![Project5](path/to/image5.jpg) Description and link
 
 ### MERN Stack Projects
-- **[Project3](#)**: Description and link
-- **[Project6](#)**: Description and link
+- **[Project3](#)**: ![Project3](path/to/image3.jpg) Description and link
+- **[Project6](#)**: ![Project6](path/to/image6.jpg
 
-### Other Technologies
-- **[Project7](#)**: Description and link
 
 
 ## 🌐 Socials
