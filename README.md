@@ -4,9 +4,22 @@
 **Experienced Frontend Developer with 3+ years of expertise in ReactJS, JavaScript, TypeScript, and Next.js. Proficient in creating robust user interfaces and single-page applications with a strong focus on performance and responsiveness. Demonstrated ability to increase user engagement by 20% through effective project delivery and collaboration with teams.**
 
 ## 💼 Work
+
+### ReactJS Projects
 - **[Project1](#)**: Description and link
+- **[Project4](#)**: Description and link
+
+### JavaScript Projects
 - **[Project2](#)**: Description and link
+- **[Project5](#)**: Description and link
+
+### MERN Stack Projects
 - **[Project3](#)**: Description and link
+- **[Project6](#)**: Description and link
+
+### Other Technologies
+- **[Project7](#)**: Description and link
+
 
 ## 🌐 Socials
 - **GitHub**: [shwetasharms](https://github.com/shwetasharms)
