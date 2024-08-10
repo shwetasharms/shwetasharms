@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Shweta Sharma</h1>
 <h3 align="center">An Experienced Frontend Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" />
+<img align="right" alt="coding" width="400"  height="400" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetasharms&label=Profile%20views&color=0e75b6&style=flat" alt="shwetasharms" /> </p>
 
