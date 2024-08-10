@@ -6,13 +6,13 @@
 ## 💼 Work
 
 ### ReactJS Projects
-- **[React With Firebase](#)**: [react-firebase](https://github.com/shwetasharms/react-firebase)
+- **[React With Firebase](https://github.com/shwetasharms/react-firebase)**: 
                                 A React app integrating Firebase for user authentication. Features include email/password sign-up, login, and secure authentication using Firebase. Easily 
                                 scalable for any React-based web application.
 - **[Project4](#)**: ![Project4](path/to/image4.jpg) Description and link
 
 ### JavaScript Projects
-- **[Project2](#)**: ![Project2](path/to/image2.jpg) Description and link
+- **[Interview Prepration]((path/to/image2.jpg](https://github.com/shwetasharms/javascript-interview-guid)) )**: Comprehensive interview prep repo with coding challenges, algorithmic problems, and personal interview experiences. Ideal for developers of all levels looking to sharpen their skills and succeed in interviews.
 - **[Project5](#)**: ![Project5](path/to/image5.jpg) Description and link
 
 ### MERN Stack Projects
