@@ -14,13 +14,13 @@
 - **[Project5](#)**: ![Project5](path/to/image5.jpg) Description and link
 
 ### MERN Stack Projects
-- **[Project3](#)**: ![Project3](path/to/image3.jpg) Description and link
+- **Todo App**: [TODO App](https://github.com/shwetasharms/mern_todo)
 - **[Project6](#)**: ![Project6](path/to/image6.jpg
 
 
 
 ## 🌐 Socials
-- **GitHub**: [shwetasharms](https://github.com/shwetasharms)
+- **GitHub**: [shwetasharms](https://github.com/shwetasharms/mern)
 - **LinkedIn**: [Shweta Sharma](https://www.linkedin.com/in/shweta-sharma-9a33681a7/)
 - **LeetCode**: [u/thakurshwetasharma](https://leetcode.com/u/thakurshwetasharma/)
 
@@ -52,4 +52,4 @@
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?&style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?&style
+
