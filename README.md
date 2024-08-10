@@ -1,57 +1,67 @@
 
-# Hi 👋, I'm Shweta Sharma
 
-**Experienced Frontend Developer with 3+ years of expertise in ReactJS, JavaScript, TypeScript, and Next.js. Proficient in creating robust user interfaces and single-page applications with a strong focus on performance and responsiveness. Demonstrated ability to increase user engagement by 20% through effective project delivery and collaboration with teams.**
+![logo](https://your-github-banner-url) <!-- Replace with your actual GitHub banner URL -->
 
-## 💼 Work
+<h1 align="center">Hi 👋, I'm Shweta Sharma</h1>
+<h3 align="center">An Experienced Frontend Developer</h3>
 
-### ReactJS Projects
-- **[React With Firebase](https://github.com/shwetasharms/react-firebase)**: 
-                                A React app integrating Firebase for user authentication. Features include email/password sign-up, login, and secure authentication using Firebase. Easily 
-                                scalable for any React-based web application.
-- **[Project4](#)**: ![Project4](path/to/image4.jpg) Description and link
+<img align="right" alt="coding" width="400" src="[https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553](https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553)" />
 
-### JavaScript Projects
-- **[Interview Prepration]((path/to/image2.jpg](https://github.com/shwetasharms/javascript-interview-guid)) )**: Comprehensive interview prep repo with coding challenges, algorithmic problems, and personal interview experiences. Ideal for developers of all levels looking to sharpen their skills and succeed in interviews.
-- **[Project5](#)**: ![Project5](path/to/image5.jpg) Description and link
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetasharms&label=Profile%20views&color=0e75b6&style=flat" alt="shwetasharms" /> </p>
 
-### MERN Stack Projects
-- **Todo App**: [TODO App](https://github.com/shwetasharms/mern_todo)
-- **[Project6](#)**: ![Project6](path/to/image6.jpg
+- 🔭 I’m currently working on [React With Firebase](https://github.com/shwetasharms/react-firebase)
 
+- 🌱 I’m currently learning **Backend Development to become a Full-Stack Developer**
+ <!-- Replace with your actual link if available -->
 
+- 💬 Ask me about **React, Next.js, JavaScript, TypeScript, and Frontend Development**
 
-## 🌐 Socials
-- **GitHub**: [shwetasharms](https://github.com/shwetasharms/mern)
-- **LinkedIn**: [Shweta Sharma](https://www.linkedin.com/in/shweta-sharma-9a33681a7/)
-- **LeetCode**: [u/thakurshwetasharma](https://leetcode.com/u/thakurshwetasharma/)
+- 📫 How to reach me **[shwetasharmaofficial.98@gmail.com](mailto:shwetasharmaofficial.98@gmail.com)** <!-- Replace with your actual email -->
 
-## 🚀 Skills
+- ⚡ Fun fact **I love exploring new tech and reading about web performance optimization!**
 
-### Programming Languages
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shweta-sharma-9a33681a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shweta sharma" height="30" width="40" /></a>
+<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/thakurshwetasharma/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+</a>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+</a>
+</p>
 
-### Frontend Development
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
 
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="border: 2px solid white; border-radius: 5px; transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /> </a> &nbsp;&nbsp;
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+</p>
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🚀 My Projects
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+- **ReactJS Projects**
+  - [react-firebase](https://github.com/shwetasharms/react-firebase)
+  - `project4`
 
-![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/babel-%23F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Materialize](https://img.shields.io/badge/materialize-%23EE6E73.svg?&style=for-the-badge&logo=materialize&logoColor=white)
+- **JavaScript Projects**
+  - [javascript-interview-guide](https://github.com/shwetasharms/javascript-interview-guid)
+  - `project5`
 
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?&style=for-the-badge&logo=express&logoColor=white)
-
+- **MERN Stack Projects**
+  - [mern_todo](https://github.com/shwetasharms/mern_todo)
+  - `project6`
