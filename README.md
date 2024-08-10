@@ -62,7 +62,10 @@
 
 - **JavaScript Projects**
   - [javascript-interview-guide](https://github.com/shwetasharms/javascript-interview-guid)
-  - `project5`
+  - Small Projects
+      - [TicTacToeGame](https://github.com/shwetasharms/javascript-interview-guid/tree/main/Projects/TicTacToeGame)
+      - 
+    
 
 - **MERN Stack Projects**
   - [mern_todo](https://github.com/shwetasharms/mern_todo)
