@@ -6,7 +6,9 @@
 ## 💼 Work
 
 ### ReactJS Projects
-- **[Project1](#)**: ![Project1](path/to/image1.jpg) Description and link
+- **[React With Firebase](#)**: [react-firebase](https://github.com/shwetasharms/react-firebase)
+                                A React app integrating Firebase for user authentication. Features include email/password sign-up, login, and secure authentication using Firebase. Easily 
+                                scalable for any React-based web application.
 - **[Project4](#)**: ![Project4](path/to/image4.jpg) Description and link
 
 ### JavaScript Projects
