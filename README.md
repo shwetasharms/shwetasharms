@@ -1,11 +1,13 @@
 
 
-![logo](https://your-github-banner-url) <!-- Replace with your actual GitHub banner URL -->
+
+<img src="https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966" height="200" width="100%"/>
+<!-- Replace with your actual GitHub banner URL -->
 
 <h1 align="center">Hi 👋, I'm Shweta Sharma</h1>
 <h3 align="center">An Experienced Frontend Developer</h3>
 
-<img align="right" alt="coding" width="400" src="[https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553](https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553)](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)" />
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetasharms&label=Profile%20views&color=0e75b6&style=flat" alt="shwetasharms" /> </p>
 
