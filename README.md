@@ -58,7 +58,9 @@
 
 - **ReactJS Projects**
   - [react-firebase](https://github.com/shwetasharms/react-firebase)
-  - `project4`
+  - React 19 New Features
+      - [React 19 features](https://github.com/shwetasharms/Reactjs/tree/main/React19NewFeatures)
+        
 
 - **JavaScript Projects**
   - [javascript-interview-guide](https://github.com/shwetasharms/javascript-interview-guid)
