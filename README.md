@@ -64,7 +64,8 @@
   - [javascript-interview-guide](https://github.com/shwetasharms/javascript-interview-guid)
   - Small Projects
       - [TicTacToeGame](https://github.com/shwetasharms/javascript-interview-guid/tree/main/Projects/TicTacToeGame)
-      - 
+      - [Star Rating ](https://github.com/shwetasharms/javascript-interview-guid/tree/main/Projects/StarRating)
+      - [Render Posts List](https://github.com/shwetasharms/javascript-interview-guid/tree/main/Projects/Posts)
     
 
 - **MERN Stack Projects**
