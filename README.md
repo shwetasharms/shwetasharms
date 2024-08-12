@@ -68,6 +68,7 @@
       - [TicTacToeGame](https://github.com/shwetasharms/javascript-interview-guid/tree/main/Projects/TicTacToeGame)
       - [Star Rating ](https://github.com/shwetasharms/javascript-interview-guid/tree/main/Projects/StarRating)
       - [Render Posts List](https://github.com/shwetasharms/javascript-interview-guid/tree/main/Projects/Posts)
+      - [Login Form](https://github.com/shwetasharms/javascript-interview-guid/tree/main/Projects/LoginForm)
     
 
 - **MERN Stack Projects**
