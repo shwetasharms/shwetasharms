@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **[shwetasharmaofficial.98@gmail.com](mailto:shwetasharmaofficial.98@gmail.com)** <!-- Replace with your actual email -->
 
-- ⚡ Fun fact **I love exploring new tech and reading about web performance optimization!**
+- **I love exploring new tech and reading about web performance optimization!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
