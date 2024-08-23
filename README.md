@@ -58,6 +58,7 @@
 
 - **ReactJS Projects**
   - [react-firebase](https://github.com/shwetasharms/react-firebase)
+  - [react_vs_next](https://github.com/shwetasharms/Reactjs/blob/main/InterviewQuestions/react_Vs_next.md)
   - Interview Questions
       - [Questions](https://github.com/shwetasharms/Reactjs/tree/main/InterviewQuestions) 
   - React 19 New Features
