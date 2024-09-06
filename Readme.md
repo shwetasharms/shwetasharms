@@ -77,7 +77,7 @@
   - React 19 New Features
     - [React 19 Features](https://github.com/shwetasharms/Reactjs/tree/main/React19NewFeatures)
   - Coding Problem asked in Interview
-    - [Coding Problems](https://github.com/shwetasharms/Reactjs/tree/main/React19NewFeatures)
+    - [Coding Problems](https://github.com/shwetasharms/Reactjs/tree/main/CodingProblems)
 
 - **JavaScript Projects**
   - [JavaScript Interview Guide](https://github.com/shwetasharms/javascript-interview-guide)
