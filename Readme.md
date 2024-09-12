@@ -81,6 +81,8 @@
 
 - **JavaScript Projects**
   - [JavaScript Interview Guide](https://github.com/shwetasharms/javascript-interview-guide)
+  - Coding Problems
+    - [Questions](https://github.com/shwetasharms/javascript-interview-guid/tree/main/Practice%20/CodingProblems)
   - Small Projects
     - [Tic Tac Toe Game](https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/TicTacToeGame)
     - [Star Rating](https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/StarRating)
