@@ -79,7 +79,9 @@
   - Coding Problem asked in Interview
     - [Coding Problems](https://github.com/shwetasharms/Reactjs/tree/main/CodingProblems)
 
-- **JavaScript Projects**
+- **JavaScript**
+  - 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
+    - [Topics](https://github.com/shwetasharms/javascript-interview-guid/tree/main/JavascriptConcepts)
   - [JavaScript Interview Guide](https://github.com/shwetasharms/javascript-interview-guide)
   - Coding Problems
     - [Questions](https://github.com/shwetasharms/javascript-interview-guid/tree/main/Practice%20/CodingProblems)
