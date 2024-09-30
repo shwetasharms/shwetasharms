@@ -78,8 +78,8 @@
     - [React 19 Features](https://github.com/shwetasharms/Reactjs/tree/main/React19NewFeatures)
   - Coding Problem asked in Interview
     - [Coding Problems](https://github.com/shwetasharms/Reactjs/tree/main/CodingProblems)
-
-- **JavaScript**
+<details>
+<summary><strong>Javascript</strong></summary>
   - 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
     - [Topics](https://github.com/shwetasharms/javascript-interview-guid/tree/main/JavascriptConcepts)
   - 𝗔𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗼𝘂𝘀 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴
@@ -95,21 +95,23 @@
     - [Star Rating](https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/StarRating)
     - [Render Posts List](https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/Posts)
     - [Login Form](https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/LoginForm)
-   
+   </details>
 <details>
   <summary><strong>NodeJs</strong></summary>
-
+<details>
   - **JavaScript Basics**
     - [JavaScript 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀](https://github.com/shwetasharms/javascript-interview-guid/tree/main/JavascriptConcepts)
     - [𝗔𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗼𝘂𝘀 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴](https://github.com/shwetasharms/javascript-interview-guid/tree/main/%20%F0%9D%97%94%F0%9D%98%80%F0%9D%98%86%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%80%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4)
     - [𝗖𝗼𝗿𝗲 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀](https://github.com/shwetasharms/javascript-interview-guid/tree/main/JavascriptConcepts)
-
+</details>
+  <details>
   - [Core NodeJS Concepts](https://github.com/shwetasharms/Nodejs/tree/main/CoreNodejs)
     - [𝗡𝗼𝗱𝗲𝗝𝗦 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀](https://github.com/shwetasharms/Nodejs/tree/main/CoreNodejs/%F0%9D%97%A1%F0%9D%97%BC%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%9D%F0%9D%97%A6%F0%9D%97%99%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9%F0%9D%98%80)
     - [𝗙𝗶𝗹𝗲 𝗦𝘆𝘀𝘁𝗲𝗺 (𝗳𝘀) 𝗠𝗼𝗱𝘂𝗹𝗲]
     - [𝗘𝘃𝗲𝗻𝘁𝘀 & 𝗧𝗵𝗲 𝗘𝘃𝗲𝗻𝘁 𝗘𝗺𝗶𝘁𝘁𝗲𝗿]
     - [𝗛𝗧𝗧𝗣 𝗠𝗼𝗱𝘂𝗹𝗲]
     - [𝗕𝘂𝗳𝗳𝗲𝗿 & 𝗦𝘁𝗿𝗲𝗮𝗺𝘀]
+  </details>
 
   - **Advanced NodeJS Concepts**
     - [𝗘𝘅𝗽𝗿𝗲𝘀𝘀 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸]
