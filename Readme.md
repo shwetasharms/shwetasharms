@@ -69,8 +69,9 @@
 </p>
 
 ## 🚀 My Projects
+<details>
+  <summary><strong>ReactJS</strong></summary>
 
-- **ReactJS Projects**
   - [React Firebase](https://github.com/shwetasharms/react-firebase)
   - Interview Questions
     - [Questions](https://github.com/shwetasharms/Reactjs/tree/main/InterviewQuestions)
@@ -78,6 +79,7 @@
     - [React 19 Features](https://github.com/shwetasharms/Reactjs/tree/main/React19NewFeatures)
   - Coding Problem asked in Interview
     - [Coding Problems](https://github.com/shwetasharms/Reactjs/tree/main/CodingProblems)
+</details>
 <details>
 <summary><strong>Javascript</strong></summary>
   - 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
@@ -98,11 +100,8 @@
    </details>
 <details>
   <summary><strong>NodeJs</strong></summary>
-
-
   <ul>
     <li><a href="https://github.com/shwetasharms/Nodejs/tree/main/CoreNodejs">JavaScript Basics</a></li>
-   JavaScript Basics
     <ul>
       <li><a href="https://github.com/shwetasharms/javascript-interview-guid/tree/main/JavascriptConcepts">JavaScript 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀</a></li>
       <li><a href="https://github.com/shwetasharms/javascript-interview-guid/tree/main/%20%F0%9D%97%94%F0%9D%98%80%F0%9D%98%86%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%80%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4">𝗔𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗼𝘂𝘀 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴</a></li>
