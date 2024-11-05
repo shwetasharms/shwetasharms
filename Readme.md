@@ -85,21 +85,17 @@
 <details>
 <summary><strong>Javascript</strong></summary>
    <u><li><a href="https://github.com/shwetasharms/javascript-interview-guid/tree/main/JavascriptConcepts">𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀</a></li></u>
-  - 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
-    - [Topics](https://github.com/shwetasharms/javascript-interview-guid/tree/main/JavascriptConcepts)
-  - 𝗔𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗼𝘂𝘀 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴
-    - [Topics]
-  - 𝗖𝗼𝗿𝗲 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
-    - [Topics]
-  - Interview Questions
-    - [JavaScript Interview Guide](https://github.com/shwetasharms/javascript-interview-guide)
-  - Coding Problems
-    - [Questions](https://github.com/shwetasharms/javascript-interview-guid/tree/main/Practice%20/CodingProblems)
-  - Small Projects
-    - [Tic Tac Toe Game](https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/TicTacToeGame)
-    - [Star Rating](https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/StarRating)
-    - [Render Posts List](https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/Posts)
-    - [Login Form](https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/LoginForm)
+   <u><li><a href="https://github.com/shwetasharms/javascript-interview-guid/tree/main/JavascriptConcepts">𝗔𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗼𝘂𝘀 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴</a></li></u>
+   <u><li><a href="https://github.com/shwetasharms/javascript-interview-guid/tree/main/JavascriptConcepts">𝗖𝗼𝗿𝗲 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀</a></li></u>
+   <u><li><a href="https://github.com/shwetasharms/javascript-interview-guide">Interview Questions</a></li></u>
+   <u><li><a href="https://github.com/shwetasharms/javascript-interview-guid/tree/main/Practice%20/CodingProblems">Coding Problems</a></li></u>
+   <u><li><a href="https://github.com/shwetasharms/javascript-interview-guid/tree/main/Practice%20/CodingProblems">Small Projects</a></li></u>
+    <ul>
+      <li><a href="https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/TicTacToeGame">Tic Tac Toe Game</a></li>
+      <li><a href="https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/StarRating">Star Rating</a></li>
+      <li><a href="https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/Posts">Render Posts List</a></li>
+      <li><a href="https://github.com/shwetasharms/javascript-interview-guide/tree/main/Projects/LoginForm">Login Form</a></li>
+    </ul>
    </details>
 <details>
   <summary><strong>NodeJs</strong></summary>
