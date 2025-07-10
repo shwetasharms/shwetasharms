@@ -296,6 +296,108 @@ Go deeper into JavaScript for more powerful and efficient coding:
 
 ---
 
+## 5. Skills to beat AI as Frontend Deeveloper ⚡️
+
+
+- **Full Stack Development**  
+  - How the web work: request, response , DOM , JS engine
+  - Rest APi and client server communication 
+  - Project structuring , routing , state management 
+
+ - Tech
+   - Frontend (React)
+   - Backedn (Nodejs, ExpressJs )
+   - Database (MongoDB, PostgreQSl)
+     
+
+- **SQL Knowledge (Not in dept but Basic and Intermediate )**  
+  - How to speak with database
+  - How t interact with SQl directly without using ORM
+  - Covering some basic and intermediate level
+ 
+- **A11Y(Accessbility)**  
+  - Navigation UI with only keyboard 
+  - Importance of semantic tags
+  - Understanding ARIA labels and roles
+ - Tech 
+  - HTML5
+  - APIs
+- **Core Web Vitals & Lighthouse**  
+  - How performace affects SEO and user experiences
+  - Debug and optimize performace bottleneck 
+  - Budgeting assets and cripts
+ - Tech 
+  - Next.js for SSR 
+  - Webpack or vites
+
+- **Image Strategy**  
+  - Optimize image by screensize and view port
+  - Loading below the fold assests later
+  - Using modern formatts and CDN strategies
+ - Tech 
+  - HTML5 pictures , srcset , lazy loading
+  - Image CDNs : cloudinary , imgix
+- **Build**  
+  - Tree Shaking unused code 
+  - Minimising and chaching JS bundle 
+  - profiling bundle size and impact
+  - Bundle optimizing
+  - Bundle chaching
+  - Bundle Profiling 
+  
+ - Tech 
+  - Webpack or vite oresbuild
+ 
+
+- **CI/CD Pipeline **  
+  - Automatic build, test and deploy workflow
+  - Writing YAMLfor github Actions
+  - Using NPM script for custom taks
+  
+ - Tech 
+  - github Actions
+  - Vercel
+  - Netlify
+  - Dockor(Optional)
+    
+- **Automated Testing Stack **  
+  - End-to-End 
+  - Unit and Integration Testing 
+  - Write test cases with mocking
+  - test runner and automation tools
+ - Tech 
+  - Cypress
+  - Playwrite
+  - Jest
+- **AWriting Clean code **  
+  - Structung repo and writing semantic commits
+  - Autoformating and linting you code
+  - consistent naming and precommit check 
+  
+ - Tech 
+  - ESLint
+  - Prittier
+  - Husky
+  - Commitlint
+  - Git commit Hooks
+
+- **ABasic Security Integration**  
+  - SPreventing common web attack (XSS , CSRF etc)
+  - Safe token storagea and transmission
+  - coOAuth2, JWT, HTTPS best practices
+  - What si HTTps?'
+  - How does Authentication Works
+  - Where to store the security tokens
+  - Security principles every developer should know
+  - Know the risk in you tech stack
+  - 
+  
+ - Tech 
+  - Helment.js , Bcryct.js, JWT
+  - HTTPS (via vercel / Netlifity)
+ 
+---
+
 ## Resources 📚
 
 Here are some great resources to continue your journey:
