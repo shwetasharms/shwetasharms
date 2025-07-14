@@ -148,7 +148,7 @@
 </details>
 <details>
   <summary><strong>ExpressJs</strong></summary>
-  <u><li><a href="https://github.com/shwetasharms/Nodejs">Interview Question</a></li></u>
+  <u><li><a href="https://github.com/shwetasharms/ExpressJs">Interview Question</a></li></u>
 </details>
 <details>
   <summary><strong>Useful Resources </strong></summary>
