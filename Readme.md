@@ -263,7 +263,7 @@ Master the core concepts of web development for building scalable and efficient 
   - Storing data on the client side
 - **Cookies**  
   - Storing small pieces of data in the browser
-- **JWT (JSON Web Tokens)**  
+- **JWT (JSON Web Tokens)[https://github.com/shwetasharms/Basic_JavaScript_Concepts-/blob/main/JWT.md]**  
   - Authentication and secure information exchange
 - **XHR (XMLHttpRequest)**  
   - Fetching data from a server (pre-Fetch API)
