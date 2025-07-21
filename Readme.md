@@ -422,4 +422,13 @@ Here are some great resources to continue your journey:
 Happy coding and good luck on your journey to becoming a Frontend Developer! ✨
 
 
+Q1- How to create a flat version of a deeply nested array ?
+Q2- How to build a custom timer hook in React.js | useTimer
+Q3- Build a mini clone of Google Calender
+Q4- Implement debounce Function | Flipkart UI
+Q5- Implement Accordian Component in React.js
+Q6- How to implement Event Emitter in Javascript ?
+Q7- How to
+
+
 ---
