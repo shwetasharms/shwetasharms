@@ -442,3 +442,103 @@ Q7- How to
 
 
 ---
+
+Do you know when to use:
+ 🔹 <preload> – critical assets early
+ 🔹 <prefetch> – assets for future use
+ 🔹 lazyload – defer below-the-fold content
+
+---
+
+### 🔹 `<link rel="preload">` — **For critical resources needed *very soon***
+
+**Purpose**: Load important assets early, *before the browser discovers them* through HTML parsing.
+
+**Use cases**:
+
+* Fonts
+* Hero images
+* Above-the-fold CSS/JS
+* Web Workers
+
+**Example**:
+
+```html
+<link rel="preload" href="/fonts/Inter.woff2" as="font" type="font/woff2" crossorigin>
+```
+
+**Key**:
+
+* Must include `as="..."` (e.g., `font`, `script`, `style`, etc.)
+* Boosts Largest Contentful Paint (LCP)
+
+---
+
+### 🔹 `<link rel="prefetch">` — **For resources needed *later***
+
+**Purpose**: Fetch in **idle time**, cache it for future navigation or interaction.
+
+**Use cases**:
+
+* JS for another route/page (in SPAs)
+* Assets for tabs/modals not visible yet
+* Future animations or features
+
+**Example**:
+
+```html
+<link rel="prefetch" href="/scripts/about.js" as="script">
+```
+
+**Key**:
+
+* Low priority fetch
+* Cached until needed
+* Improves perceived performance when user navigates
+
+---
+
+### 🔹 `loading="lazy"` — **For deferring non-critical content (e.g., images)**
+
+**Purpose**: Load *only when visible in viewport* (below the fold).
+
+**Use cases**:
+
+* Images outside the initial view
+* Offscreen iframes or videos
+
+**Example**:
+
+```html
+<img src="gallery/image1.jpg" loading="lazy" alt="Art piece">
+```
+
+**Key**:
+
+* Reduces initial page weight
+* Native browser support (no JS required)
+
+---
+
+### Summary Table
+
+| Feature      | When to Use                      | Priority  | Cached? | Browser Support |
+| ------------ | -------------------------------- | --------- | ------- | --------------- |
+| `<preload>`  | Critical assets for current page | High      | ✅       | ✅ (broad)       |
+| `<prefetch>` | Assets for upcoming navigation   | Low       | ✅       | ✅ (modern)      |
+| `lazyload`   | Content outside viewport         | On-Demand | 🚫      | ✅ (good)        |
+
+---
+
+### 🚀 Benefits of Proper Use
+
+* Faster LCP and FCP
+* Better Time-to-Interactive
+* Reduced unused JS/CSS load
+* Lower bandwidth usage
+
+---
+
+**a.** Want code examples comparing `preload` vs `prefetch` in real layouts?
+**b.** Want a checklist to audit your site’s use of preload/prefetch/lazyload?
+
