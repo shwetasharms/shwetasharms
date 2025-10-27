@@ -174,6 +174,7 @@
 ## 🚀 Important Interview Questions
 
 - **HTML**
+  - [Important Questions Quick revision](https://github.com/shwetasharms/HTML-Interview-Questions)
 - **CSS**
   - [Important Questions](https://github.com/shwetasharms/css_questions.git)
 
