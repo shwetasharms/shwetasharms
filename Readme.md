@@ -67,7 +67,11 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
   </a>&nbsp;&nbsp;
 </p>
-
+## Topics that i want to learn in deep 
+### Pure component in react 
+### React Fiber Architecture 
+### useReducer Hooks 
+### 
 ## 🚀 My Projects
 <details>
   <summary><strong>ReactJS</strong></summary>
