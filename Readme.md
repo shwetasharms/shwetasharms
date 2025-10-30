@@ -790,3 +790,14 @@ This is a safe alternative as this 𝗱𝗶𝗿𝗲𝗰𝘁𝗹𝘆 𝗶𝗺𝗽
 𝘯𝘱𝘹 𝘸𝘦𝘣𝘱𝘢𝘤𝘬-𝘣𝘶𝘯𝘥𝘭𝘦-𝘢𝘯𝘢𝘭𝘺𝘻𝘦𝘳 𝘥𝘪𝘴𝘵/𝘣𝘶𝘯𝘥𝘭𝘦.𝘫𝘴
 
 
+
+
+ ## Day 1 Interview experince Reactjs 
+ 1- what is block and inline element 
+ 2- what is synthetic event
+ 3- what is the lifecycle methods in the react 
+ 4- what is recoincilation process
+ 5- what is generater function 
+ 6- what is the function curryncg 
+7- what is the clouser
+8- 
