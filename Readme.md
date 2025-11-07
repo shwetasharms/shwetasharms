@@ -97,6 +97,20 @@
     - [React 19 Features](https://github.com/shwetasharms/Reactjs/tree/main/React19NewFeatures)
   - Coding Problem asked in Interview
     - [Coding Problems](https://github.com/shwetasharms/Reactjs/tree/main/CodingProblems)
+  - Optimisation Tips 
+    - [Optimisation]
+	🧠 𝟭𝟬 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗧𝗶𝗽𝘀
+
+ 1. Use code splitting to reduce bundle size.
+ 2. Lazy load images and components.
+ 3. Optimize images with WebP/AVIF.
+ 4. Cache static assets using a service worker.
+ 5. Avoid unnecessary re-renders in React/Vue.
+ 6. Use debounce or throttle for event-heavy functions.
+ 7. Remove unused dependencies.
+ 8. Compress JS & CSS with minifiers.
+ 9. Use IntersectionObserver for lazy loading.
+ 10. Monitor performance with Lighthouse.
 </details>
 <details>
 <summary><strong>Javascript</strong></summary>
