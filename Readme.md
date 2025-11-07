@@ -72,6 +72,18 @@
 ### React Fiber Architecture 
 ### useReducer Hooks 
 ### 
+
+## Company Wise Interview Question (Real time experince )
+<details>
+  <summary><strong>Accenture (4+ year of expernce)</strong></summary>
+  - [Accenture Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Capgemini (4+ year of expernce)</strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+
+
 ## 🚀 My Projects
 <details>
   <summary><strong>ReactJS</strong></summary>
