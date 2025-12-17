@@ -202,7 +202,8 @@
   - [MERN Interview](https://github.com/shwetasharms/mern_todo)
 <details>
 	<summary>
-		<strong>[Linux Commands](https://github.com/shwetasharms/linux-commands/blob/main/README.md)</strong>
+		<strong>Linux Commands</strong>
+		<ul><li>[Learn](https://github.com/shwetasharms/linux-commands/blob/main/README.md)</li></ul>
 	</summary>
 </details>
 
