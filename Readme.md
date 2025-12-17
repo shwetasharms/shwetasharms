@@ -200,6 +200,11 @@
 - **MERN Stack Projects**
   - [MERN Todo](https://github.com/shwetasharms/mern_todo)
   - [MERN Interview](https://github.com/shwetasharms/mern_todo)
+<details>
+	<summary>
+		<strong>[Linux Commands](https://github.com/shwetasharms/linux-commands/blob/main/README.md)</strong>
+	</summary>
+</details>
 
 ## 🚀 Important Interview Questions
 
