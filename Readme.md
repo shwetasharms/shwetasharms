@@ -203,8 +203,8 @@
 <details>
 	<summary>
 		<strong>Linux Commands</strong>
-		<ul><li>[Learn](https://github.com/shwetasharms/linux-commands/blob/main/README.md)</li></ul>
 	</summary>
+	<ul><li>[Learn](https://github.com/shwetasharms/linux-commands/blob/main/README.md)</li></ul>
 </details>
 
 ## 🚀 Important Interview Questions
