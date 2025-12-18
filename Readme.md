@@ -206,6 +206,13 @@
 	</summary>
 	<ul><li>[Learn](https://github.com/shwetasharms/linux-commands/blob/main/README.md)</li></ul>
 </details>
+<details>
+	<summary>TypeScript</summary>
+	<ul>
+		<li>[Concepts](https://github.com/shwetasharms/typescript)</li>
+		<li>[Interview Questions]</li>
+	</ul>
+</details>
 
 ## 🚀 Important Interview Questions
 
