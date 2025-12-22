@@ -67,6 +67,18 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
   </a>&nbsp;&nbsp;
 </p>
+
+## 15 Frontend Concepts Every Senior Dev Has Mastered (Real time experince )
+<details>
+  <summary><strong>Critical Rendering Path</strong></summary>
+  - [Accenture Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Capgemini (4+ year of expernce)</strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+
+
 ## Topics that i want to learn in deep 
 ### Pure component in react 
 ### React Fiber Architecture 
