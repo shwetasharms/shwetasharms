@@ -68,17 +68,67 @@
   </a>&nbsp;&nbsp;
 </p>
 
-## 15 Frontend Concepts Every Senior Dev Has Mastered (Real time experince )
+## 15 Frontend Concepts Every Senior Dev Has Mastered 
 <details>
   <summary><strong>Critical Rendering Path</strong></summary>
   - [Accenture Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
 </details>
 <details>
-  <summary><strong>Capgemini (4+ year of expernce)</strong></summary>
+  <summary><strong>Core Web Vitals</strong></summary>
   - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
 </details>
-
-
+<details>
+  <summary><strong>Http Caching </strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Content Negotitations</strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Lazy Loading </strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Bundle Spliting </strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Critical CSS</strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Essential State Model</strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Reducer Pattern </strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Windowing</strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Server Side Rendering </strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Partial Pre-rendering </strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Rehydration</strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Server Side Components</strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>Microfrontend </strong></summary>
+  - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
 ## Topics that i want to learn in deep 
 ### Pure component in react 
 ### React Fiber Architecture 
