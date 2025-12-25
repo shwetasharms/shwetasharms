@@ -68,7 +68,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<details>   <summary><strong> 1- 15 Frontend Concepts Every Senior Dev Has Mastered </strong></summary>
+## <details>   <summary><strong> 1- 15 Frontend Concepts Every Senior Dev Has Mastered </strong></summary>
 	
 <details>
   <summary><strong>Critical Rendering Path</strong></summary>
