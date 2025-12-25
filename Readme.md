@@ -68,9 +68,8 @@
   </a>&nbsp;&nbsp;
 </p>
 
-##  <strong> 1- 15 Frontend Concepts Every Senior Dev Has Mastered </strong>
-	<details> 
-	 <summary>
+<details> <summary> <strong> 1- 15 Frontend Concepts Every Senior Dev Has Mastered </strong></summary>
+	
 <details>
   <summary><strong>Critical Rendering Path</strong></summary>
   - [Accenture Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
@@ -131,7 +130,7 @@
   <summary><strong>Microfrontend </strong></summary>
   - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
 </details>
-</summary>
+
 </details>
 ## Topics that i want to learn in deep 
 ### Pure component in react 
