@@ -149,7 +149,9 @@
 </details>
 <details>
   <summary><strong>Deloitte (4+ year of expernce)</strong></summary>
-  - [Frontend Interview (For Others)](https://github.com/shwetasharms/Reactjs/tree/main)
+	
+  - [Frontend Interview (For Others)](https://github.com/shwetasharms/Reactjs/blob/main/Deloitte_Frontend_Questions_Others)
+	
   - [Frontend Interview (For Me)](https://github.com/shwetasharms/Reactjs/tree/main)
 </details>
 
