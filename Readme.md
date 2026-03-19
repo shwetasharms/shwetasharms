@@ -147,6 +147,11 @@
   <summary><strong>Capgemini (4+ year of expernce)</strong></summary>
   - [Capgemini Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
 </details>
+<details>
+  <summary><strong>Deloitte (4+ year of expernce)</strong></summary>
+  - [Frontend Interview (For Others)](https://github.com/shwetasharms/Reactjs/tree/main)
+  - [Frontend Interview (For Me)](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
 
 
 ## 🚀 My Projects
