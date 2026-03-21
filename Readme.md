@@ -141,7 +141,9 @@
 ## Company Wise Interview Question (Real time experince )
 <details>
   <summary><strong>Accenture (4+ year of expernce)</strong></summary>
-  - [Accenture Frontend Interview](https://github.com/shwetasharms/Reactjs/tree/main)
+	
+  - [Accenture Frontend Interview (For Others 2026 )](https://github.com/shwetasharms/Reactjs/blob/main/Accenture_Frontend_Interview_Others.md)
+	
 </details>
 <details>
   <summary><strong>Capgemini (4+ year of expernce)</strong></summary>
@@ -151,6 +153,13 @@
   <summary><strong>Deloitte (4+ year of expernce)</strong></summary>
 	
   - [Frontend Interview (For Others)](https://github.com/shwetasharms/Reactjs/blob/main/Deloitte_Frontend_Questions_Others)
+	
+  - [Frontend Interview (For Me)](https://github.com/shwetasharms/Reactjs/tree/main)
+</details>
+<details>
+  <summary><strong>EY (4+ year of expernce)</strong></summary>
+	
+  - [Frontend Interview (For Others 2026)](https://github.com/shwetasharms/Reactjs/blob/main/EY_Frontend_Interview_Others.md)
 	
   - [Frontend Interview (For Me)](https://github.com/shwetasharms/Reactjs/tree/main)
 </details>
