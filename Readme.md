@@ -296,7 +296,8 @@
 </details>
 
 ## 🚀 Important Interview Questions
-
+- **DOM**
+  -  [Important Questions Quick revision](https://github.com/shwetasharms/HTML-Interview-Questions/blob/main/DOM_Interview_Questions.md)
 - **HTML**
   - [Important Questions Quick revision](https://github.com/shwetasharms/HTML-Interview-Questions)
 - **CSS**
