@@ -136,8 +136,6 @@
 ### Pure component in react 
 ### React Fiber Architecture 
 ### useReducer Hooks 
-### 
-
 
 ## Company Wise Interview Question (Real time experince )
 <details>
@@ -170,6 +168,7 @@
 	<summary><strong>100 Days of Learning Backend</strong></summary>
 	- [Day 1](https://github.com/shwetasharms/backend_development/blob/main/Day_1.md)
 </details>
+
 ## 🚀 My Projects
 <details>
   <summary><strong>ReactJS</strong></summary>
