@@ -139,6 +139,12 @@
 
 ## Company Wise Interview Question (Real time experince )
 <details>
+  <summary><strong>Javascript Interview Questions</strong></summary>
+	
+  - [Output Based Tricky Questions](https://github.com/shwetasharms/javascript-interview-guid/blob/main/OutputBasedQuestion.md)
+	
+</details>
+<details>
   <summary><strong>Accenture (4+ year of expernce)</strong></summary>
 	
   - [Accenture Frontend Interview (For Others 2026 )](https://github.com/shwetasharms/Reactjs/blob/main/Accenture_Frontend_Interview_Others.md)
