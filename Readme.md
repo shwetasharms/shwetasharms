@@ -1,19 +1,30 @@
 
-
 <h1 align="center">Hi 👋, I'm Shweta Sharma</h1>
-<h3 align="center">An Experienced Frontend Developer</h3>
-
-<img align="right" alt="Coding" width="400" height="400" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" />
-
+<h3 align="center">Senior Frontend Engineer · React · Next.js · TypeScript</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shwetasharms&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on [React With Firebase](https://github.com/shwetasharms/react-firebase)
-- 🌱 I’m currently learning **Backend Development to become a Full-Stack Developer**
-- 💬 Ask me about **React, Next.js, JavaScript, TypeScript, and Frontend Development**
-- 📫 How to reach me: **[shwetasharmaofficial.98@gmail.com](mailto:shwetasharmaofficial.98@gmail.com)**
-- ⚡ Fun fact: **I love exploring new tech and reading about web performance optimization!**
+
+<img align="right" alt="Coding" width="400" height="400" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" />
+
+
+<p align="left">
+  Frontend engineer with 4.8+ years building scalable, performance-optimized web apps.
+  Currently engineering United Airlines' micro-frontend platform at Infosys, serving
+  millions of users. I care about clean code, accessibility, and fast load times.
+</p>
+
+---
+
+- 🏢 **Senior React Developer** at **Infosys** — United Airlines micro-frontend platform
+- 🔭 Currently building with **React 19, Next.js & Firebase**
+- 🌱 Expanding into **backend (Node.js/Express)** and **AI integration** to go full-stack
+- 💬 Ask me about **React, Next.js, TypeScript, web performance & accessibility**
+- 📫 Reach me at **shwetasharmaofficial.98@gmail.com**
+- 🔗 Portfolio: **[your-portfolio-url]** 
+- LinkedIn: **[linkedin.com/in/shweta-sharma-9a33681a7](https://linkedin.com/in/shweta-sharma-9a33681a7)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
