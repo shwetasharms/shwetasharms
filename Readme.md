@@ -165,7 +165,7 @@
 <details>
   <summary><strong>Zomato (4+ year of expernce)</strong></summary>
 	
-  - [Frontend Interview(https://github.com/shwetasharms/Reactjs/blob/main/Zomato_Interview_Questions.md)
+  - [Frontend Interview](https://github.com/shwetasharms/Reactjs/blob/main/Zomato_Interview_Questions.md)
 	
 </details>
 
