@@ -168,6 +168,13 @@
   - [Frontend Interview](https://github.com/shwetasharms/Reactjs/blob/main/Zomato_Interview_Questions.md)
 	
 </details>
+<details>
+  <summary><strong>Synechron (4+ year of expernce)</strong></summary>
+	
+  - [Frontend Interview](https://github.com/shwetasharms/Reactjs/blob/main/Synechron_Interview_Questions.md)
+	
+</details>
+
 
 
 ## 100 Days of learning Backend Development 
