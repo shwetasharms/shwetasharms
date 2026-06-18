@@ -180,6 +180,13 @@
   - [Frontend Interview](https://github.com/shwetasharms/Reactjs/blob/main/Synechron_Interview_Questions.md)
 	
 </details>
+<details>
+  <summary><strong>Synechron (4+ year of expernce)</strong></summary>
+	
+  - [Frontend Interview](https://github.com/shwetasharms/Reactjs/blob/main/Mphasis_Interview_Questions.md)
+	
+</details>
+
 
 
 
