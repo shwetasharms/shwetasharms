@@ -181,7 +181,7 @@
 	
 </details>
 <details>
-  <summary><strong>Synechron (4+ year of expernce)</strong></summary>
+  <summary><strong>Mphasis (4+ year of expernce)</strong></summary>
 	
   - [Frontend Interview](https://github.com/shwetasharms/Reactjs/blob/main/Mphasis_Interview_Questions.md)
 	
