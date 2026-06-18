@@ -25,6 +25,32 @@
 - 🔗 Portfolio: **[your-portfolio-url]** 
 - LinkedIn: **[linkedin.com/in/shweta-sharma-9a33681a7](https://linkedin.com/in/shweta-sharma-9a33681a7)**
 
+<p align="left">
+  <a href="https://shweta-sharma-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Site-0f5f63?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/shweta-sharma-9a33681a7">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:shwetasharmaofficial.98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+## 🚀 Featured Project
+
+<a href="https://shweta-sharma-portfolio.vercel.app/">
+  <img src="./assets/portfolio-preview.png" width="100%" alt="Portfolio preview"/>
+</a>
+
+### [Developer Portfolio →](https://shweta-sharma-portfolio.vercel.app/)
+
+A modern, animated portfolio built with **Next.js, TypeScript, Tailwind CSS & Framer Motion** — dark/light mode, scroll animations, Jest tests, and a GitHub Actions CI/CD pipeline deploying to Vercel.
+
+**[🌐 Live Demo](https://shweta-sharma-portfolio.vercel.app/)** · **[💻 Source Code](https://github.com/shwetasharms/portfolio)**
+
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Jest` · `CI/CD`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
