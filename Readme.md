@@ -1,3 +1,4 @@
+<img width="1470" height="956" alt="Screenshot 2026-06-19 at 1 59 53 AM" src="https://github.com/user-attachments/assets/7d72fc96-cd4e-4368-b575-4286b5a7c3fd" />
 
 <h1 align="center">Hi 👋, I'm Shweta Sharma</h1>
 <h3 align="center">Senior Frontend Engineer · React · Next.js · TypeScript</h3>
